@@ -1,0 +1,31 @@
+01. Write a code to check for NULL values
+
+02. If NULL values are present, update them with zeros for all columns
+
+03. Check Total number of rows
+
+04. Check what is start_date and what is the end_date
+
+05. Number of month present in Dataset
+
+06. Find monthly average for confirmed, deaths and recovered
+
+07. Find most frequent value for confirmed, deaths, recovered each month
+
+08. Find minimum values for confirmed, deaths, recovered per year
+
+09. Find maximum values for confirmed, deaths, recovered per year
+
+10. Find total number of cases of confirmed, deaths, recovered each month
+
+11. Check how corona virus spread out with respect to confirmed cases
+
+12. Check how corona virus spread out with respect to death case per month
+
+13. Check how corona virus spread out with respect to recovered cases
+
+14. Find the Country have highest number of confirmed cases
+
+15. Find the Country have lowest number of death cases
+
+16. Find top 5 countries have highest recovered cases
